@@ -4,6 +4,7 @@ public class AssignmentQ1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		m1("Bangalore1");
 
 	}
