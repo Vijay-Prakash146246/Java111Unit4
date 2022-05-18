@@ -18,6 +18,8 @@ public class Assign18MayQ1 {
 		//o/p 22 so we can directly access static variable in static area 
 		Assign18MayQ1 obj = new Assign18MayQ1();
 		System.out.println(obj.z);
+		//o/p 10 so we can't directly access non-static variable in static area 
+		//we can access it through object
 		
 	}
 }
